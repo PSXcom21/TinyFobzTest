@@ -47,6 +47,6 @@ body {
 }
 
 img {
-    max-width: auto; 
-    height: auto;    
+    max-width: 200; 
+    height: 128;    
 }
