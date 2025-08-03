@@ -45,3 +45,8 @@ body {
     background-color: #6cace4;
     color: #ffffff;
 }
+
+img {
+    max-width: 100%; 
+    height: auto;    
+}
